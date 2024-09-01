@@ -15,6 +15,13 @@ set(SOURCE_FILES
         RunGui.cpp
         RunGui.hpp
 
+        TestView.cpp
+        TestView.hpp
+        TestView2.cpp
+        TestView2.hpp
+        TestDelegate.cpp
+        TestDelegate.hpp
+
         common/Args.cpp
         common/Args.hpp
         common/Channel.cpp

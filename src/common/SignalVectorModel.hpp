@@ -161,6 +161,7 @@ public:
         if (rowItem.isCustomRow)
         {
             this->customRowSetData(rowItem.items, column, value, role, row);
+            emit dataChanged(index, index, {role});
         }
         else
         {
