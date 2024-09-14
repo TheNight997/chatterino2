@@ -21,6 +21,8 @@ set(SOURCE_FILES
         TestView2.hpp
         TestDelegate.cpp
         TestDelegate.hpp
+        TestWidget.cpp
+        TestWidget.hpp
 
         common/Args.cpp
         common/Args.hpp
